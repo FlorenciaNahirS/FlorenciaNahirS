@@ -1,4 +1,22 @@
+### Hi there! 👋
+<h2>I'm Florencia Saldaño  -  💻 FullStack Developer</h2> 
 
+<img align='right' src="https://i.pinimg.com/originals/d3/60/f1/d360f1827f7996e9e0a3ccb6f584c848.gif" width="300">
+ 
+
+<h3>:blossom: About Me </h3>
+
+ - 🤔 &nbsp; I'm interested in movies, knitting and coding. 
+
+ - 🎓 &nbsp; Right now I'm studying React.
+
+ - 🌱 &nbsp; In the future I would like to learn more about JavaScript libraries.
+
+ - ✍️ &nbsp; I'm working on [Lazlo](https://github.com/jessi-andre/grupo_2_lazlo).
+ 
+<br>
+
+# 
 
 ### 👨‍💻 Programming languages
 
