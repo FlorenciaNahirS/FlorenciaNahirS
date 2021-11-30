@@ -14,7 +14,7 @@
 
  - ✍️ &nbsp; I'm working on [Lazlo](https://github.com/jessi-andre/grupo_2_lazlo).
  
- - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/florencia-n-salda/)
+ - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/florencia-n-salda/)
  
 
 # 
