@@ -13,6 +13,8 @@
  - 🌱 &nbsp; In the future I would like to learn more about JavaScript libraries.
 
  - ✍️ &nbsp; I'm working on [Lazlo](https://github.com/jessi-andre/grupo_2_lazlo).
+
+ - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/florencia-n-salda/)
  
 
 # 
