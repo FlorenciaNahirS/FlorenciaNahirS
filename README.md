@@ -9,6 +9,8 @@
  - 🤔 &nbsp; I'm interested in movies, knitting and coding. 
 
  - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/florencia-n-salda/)
+
+ - 🖱️ &nbsp; More: [CodePen](https://codepen.io/flor_s)
  
 
 # 
